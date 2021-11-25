@@ -1,4 +1,4 @@
-### Не захлдите к нам
+### Не заходите к нам
 
 <!--hfuy
 **PolinaKatya/PolinaKatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
